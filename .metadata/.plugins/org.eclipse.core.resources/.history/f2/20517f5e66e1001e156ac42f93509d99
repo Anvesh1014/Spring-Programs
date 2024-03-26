@@ -1,0 +1,9 @@
+package com.sathya.springex;
+
+public class Car implements Vehicle {
+	private String fuelType;
+	private int maxSpeed;
+	
+	
+
+}

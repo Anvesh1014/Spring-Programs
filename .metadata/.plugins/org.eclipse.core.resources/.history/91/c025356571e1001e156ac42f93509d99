@@ -1,0 +1,11 @@
+package com.sathya.springex;
+
+public class Bus {
+	private String busType;
+	private int maxSpeed;
+	public void move() {
+		System.out.println("Your selected Bus vehicle");
+		System.out.println("BusType..."+busType);
+		System.out.println("maxSpeed..."+maxSpeed);
+}
+}

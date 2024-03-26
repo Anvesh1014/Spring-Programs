@@ -1,0 +1,9 @@
+package com.sathya.springex;
+
+public class RealEstateService {
+
+		public void realstateInfo()
+		{
+			System.out.println("RealEstate Market is sometimes good sometimes bad");
+		}
+}

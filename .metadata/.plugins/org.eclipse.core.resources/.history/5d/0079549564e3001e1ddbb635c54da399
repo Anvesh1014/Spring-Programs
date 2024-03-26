@@ -1,0 +1,9 @@
+package com.sathya.springex;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Person {
+	
+@Autowired
+ Public  HomeLoanService homeLoanService;
+}
